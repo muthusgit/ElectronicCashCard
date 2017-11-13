@@ -1,0 +1,5 @@
+Electronic Cash Card - Intellij Project
+
+- To test - Run com.citi.electronic.BankAccountRunner class
+- To test for multiple banks Simultaneously uncomment the for loop in BankAccountRunner class and execute
+- Maximum amount that can be deposited and Withdrawn can be configured in BankAccountRunner
